@@ -100,7 +100,7 @@ module.exports = {
           "name": "Smashin Goblin Dicks",
           "ip": "127.0.0.1",
           "port": "18081",
-          "rconPassword": "Snuff1e^agu5",
+          "rconPassword": "PASSWORD",
           "channels": {
             "side": "test_7days",
             "direct": "test_7days",
