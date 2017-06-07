@@ -1,0 +1,10 @@
+{
+  "name": "nutbot-module",
+  "version": "0.1",
+  "description": "A clean package for NutBot -- Inspired by ZBOT (Zupa).",
+  "main": "nbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Apache-2.0"
+}
