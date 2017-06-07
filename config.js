@@ -16,7 +16,7 @@ module.exports = {
   // Then create a new application and grab your token.
 
   // token: "production-key", // Production token (NBot)
-  token: "MzE1ODU0OTc0NjE5NzQ2MzA0.DAMyZQ.VpdrxbHjeBwKpxtgzvL1nDWMyzQ", // Test token (N-Bot (Dev))
+  token: "YOUR_TOKEN_HERE", // Test token (N-Bot (Dev))
 
   // Key to get youtube songs.
   youtube_data_key: "AIzaSyDRaPYpfRZlp_lGk5Myj5euc_y-7C1iI1s", // not supported in this version of the bot.
